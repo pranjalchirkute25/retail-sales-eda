@@ -5,7 +5,7 @@ The goal was to clean the data, look at basic statistics, study sales trends
 over time, understand customer/product behavior, and pull out some useful 
 insights and recommendations for the business.
 
-Done as part of the Oasis Infobyte Data Science Internship.
+Done as part of the Oasis Infobyte Data Analytics Internship.
 
 ## What's in this project
 
